@@ -1,0 +1,12 @@
+{
+	"name": "LienIRMBR",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/c33ef674-5b75-4b8a-9dd2-03ac9a4c12f9/resourcegroups/testDEMO/providers/Microsoft.DataFactory/factories/TESTADFMBR/integrationruntimes/SELF-HOSTED",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}
