@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "ahmedtt"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"LienIRMBR_properties_typeProperties_linkedInfo_resourceId": {
+			"value": "/subscriptions/c33ef674-5b75-4b8a-9dd2-03ac9a4c12f9/resourcegroups/testDEMO/providers/Microsoft.DataFactory/factories/TESTADFMBR/integrationruntimes/SELF-HOSTED"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
